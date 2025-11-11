@@ -1,12 +1,12 @@
 # arduino
-projeto irrigação automática 
+#projeto irrigação automática 
 
-Passo a passo -> 
+#Passo a passo -> 
 
 Na IDE do Arduino Uno:
 
-Tools -> arduino uno
-Tools -> Port -> COM04
+#Tools -> arduino uno
+#Tools -> Port -> COM04
 
-#### Baixar biblioteca
-LiquidCrystal I2C — autor Frank de Brabander
+#Baixar biblioteca
+#LiquidCrystal I2C — autor Frank de Brabander
