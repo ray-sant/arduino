@@ -3,7 +3,7 @@
 
 #Passo a passo -> 
 
-Na IDE do Arduino Uno:
+#Na IDE do Arduino Uno:
 
 #Tools -> arduino uno
 #Tools -> Port -> COM04
